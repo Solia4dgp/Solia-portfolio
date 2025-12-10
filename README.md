@@ -13,7 +13,7 @@ A collection of data analysis, visualization, and analytics projects showcasing 
   
   >[Core Technical Toolkit](#Core-Technical-Toolkit)
 - [Projects](#My-Projects)
-- [CV & Certifications](#My-CV-&-Certifications)
+- [CV & Certifications](#My-CV-Certifications)
 - [Reach Out to Me](#Reach-Out-to-Me)
 
 
