@@ -13,7 +13,7 @@ A collection of data analysis, visualization, and analytics projects showcasing 
   
   >[Core Technical Toolkit](#Core-Technical-Toolkit)
 - [Projects](#My-Projects)
-- [CV & Certifications](#My-CV-Certifications)
+- [CV & Certifications](#My-CV-and-Certifications)
 - [Reach Out to Me](#Reach-Out-to-Me)
 
 
@@ -47,7 +47,7 @@ organization
 |Modeled and analyzed a large public retail dataset. Built an interactive Power BI Dashboard to visualize performance across monthly sales, product categories and customer demographics. Key Insights: Electronics & Clothing are top revenue drivers; Apr, May, Oct, Dec are peak sales months.| Consolidated and transformed historical sales data (4 CSVs) into a unified master dataset using VLOOKUP/INDEX-MATCH. Designed an interactive Excel dashboard with Pivot Charts & Slicers to visualize performance. Key Insights: Ontario/Alberta are top regions, significant Jan-Apr sales peak and the Convenience/Urban segments drive revenue.| Analyzed the DVD Rental dataset to uncover customer behavior, payment patterns and inventory distribution. Performed SQL exploration, filtering, aggregation, set operations and custom table creation. Key Insights: High-value customers identified ($100–$150 band) and “Love” appears frequently in film titles.|  
 |[View full case study](https://github.com/Solia4dgp/Solia_Portfolio_Projects)|[View full case study](https://github.com/Solia4dgp/Solia_Portfolio_Projects/tree/main/Sales_Revenue_Analysis_Excel)| [View full case study](https://github.com/Solia4dgp/Solia_Portfolio_Projects/tree/main/DVD%20Rental%20Database%20Exploration%20Using%20SQL)
 
-## My CV & Certifications
+## My CV and Certifications
 A collection of my key documents, showcasing my qualifications, training, and professional experience.
 
 [View my CV](https://drive.google.com/file/d/1V3LPxwdViSe-EJk5HN7amkaOY6bZoVdX/view?usp=drive_link)
