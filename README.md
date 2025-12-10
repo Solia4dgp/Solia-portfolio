@@ -6,15 +6,15 @@ A collection of data analysis, visualization, and analytics projects showcasing 
 > ### Solia Aileru | Data Analyst
 
 ## Table of content
-- [Background](My-Background)
-  >[Education](Education)
+- [Background](#My-Background)
+  >[Education](#Education)
   
-  >[Work Experience](Work-Experience)
+  >[Work Experience](#Work-Experience)
   
-  >[Core Technical Toolkit](Core-Technical-Toolkit)
-- [Projects](My-Projects)
-- [CV & Certifications](My-CV-&-Certifications)
-- [Reach Out to Me](Reach-Out-to-Me)
+  >[Core Technical Toolkit](#Core-Technical-Toolkit)
+- [Projects](#My-Projects)
+- [CV & Certifications](#My-CV-&-Certifications)
+- [Reach Out to Me](#Reach-Out-to-Me)
 
 
 ## My Background
